@@ -34,3 +34,4 @@ image::module-1-console-login.png[link=self, window=blank, width=100%]
 
 Félicitations !
 Vous êtes désormais connecté et prêt à commencer l'atelier !
+Bons tests ...
